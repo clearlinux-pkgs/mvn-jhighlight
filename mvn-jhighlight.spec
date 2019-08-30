@@ -4,7 +4,7 @@
 #
 Name     : mvn-jhighlight
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/codelibs/jhighlight/archive/jhighlight-1.0.1.tar.gz
 Source0  : https://github.com/codelibs/jhighlight/archive/jhighlight-1.0.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/uwyn/jhighlight/1.0/jhighlight-1.0.jar
